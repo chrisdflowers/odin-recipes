@@ -2,11 +2,17 @@
 
 body {
     background-color: #D1A38A;
-    color: #4D2C29
+    color: #4D2C29;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .center {
     text-align: center;
+}
+
+.center ul {
+    list-style-type: none;
+    padding: 0;
 }
 
 h1, h2, h3 {
