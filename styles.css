@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+    background-color: #D1A38A;
+    color: #4D2C29
+}
+
+.center {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: hsla(18, 58%, 14%, 0.808);
+    background-color: #B5754A;
+    text-align: center;
+}
+
+p, ol, ul {
+    background-color: rgb(241, 140, 81);
+  }
+
+
+ul {
+    list-style-type: square;
+}
+
